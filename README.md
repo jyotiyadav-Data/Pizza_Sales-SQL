@@ -266,7 +266,8 @@ WHERE rnk <= 3;
 
 The complete project report with all SQL queries and outputs is available here:
 
-👉 **LinkedIn Project Post:** https://www.linkedin.com/posts/jyotiyadav-data_pizzasales-sql-activity-7407644957299138560-aLWB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF_XvR4B9fmo9_3KzvrQ290zwl5nwaZeuMQ)
+👉 **LinkedIn Project Post:** 👉 [LinkedIn Project Post](https://www.linkedin.com/posts/jyotiyadav-data_pizzasales-sql-activity-7407644957299138560-aLWB)
+
 > Note: LinkedIn sometimes restricts PDF preview access for non-logged-in users. Please open the link while logged into LinkedIn to view the full PDF.
 
 ---
